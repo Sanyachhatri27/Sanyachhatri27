@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanya Chhatri
 
-<!--
-**Sanyachhatri27/Sanyachhatri27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# B.Tech CSE-AIML Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a CSE-AIML student passionate about **programming, problem solving, web development, and AI/ML**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Tech Journey
+
+🐍 **Python** — Basics completed  
+☕ **Java** — Currently learning DSA & problem solving  
+🌐 **Web Development** — Currently learning  
+🤖 **AI/ML** — Exploring
+
+
+⭐ *Learn. Build. Grow.*
