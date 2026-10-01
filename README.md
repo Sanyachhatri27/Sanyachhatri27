@@ -4,7 +4,7 @@
 
 I'm a CSE-AIML student passionate about **programming, problem solving, web development, and AI/ML**.
 
-# 🧑‍💻 Tech Journey
+#🧑‍💻 Tech Journey
 
 🐍 **Python** — Basics completed  
 ☕ **Java** — Currently learning DSA & problem solving  
